@@ -17,8 +17,8 @@ GPIO.setmode(GPIO.BOARD)   # Use physical pin numbering
 GPIO.setup(8, GPIO.OUT, initial=GPIO.LOW)
 
 ORG_EMAIL = "@gmail.com"
-FROM_EMAIL = "email" + ORG_EMAIL
-FROM_PWD = "password"
+FROM_EMAIL = "myEmail" + ORG_EMAIL
+FROM_PWD = "myPassword"
 SMTP_SERVER = "imap.gmail.com"
 SMTP_PORT = 993
 
