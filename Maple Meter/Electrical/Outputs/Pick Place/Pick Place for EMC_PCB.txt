@@ -1,0 +1,45 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Projects\Ekidna_Moisture_Chamber_V2.0\Project Outputs for Ekidna_Moisture_Chamber_V2.0\Output\Pick Place\Pick Place for EMC_PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       21-12-22
+Time:       11:03
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Center-X(mil) Center-Y(mil) Layer    Rotation 
+C15        690.000       1146.929      TopLayer 90       
+C14        1280.000      220.000       TopLayer 90       
+C11        1228.071      490.000       TopLayer 0        
+C10        1228.071      535.000       TopLayer 0        
+C9         1228.071      580.000       TopLayer 0        
+C8         1228.071      625.000       TopLayer 0        
+C7         1228.071      670.000       TopLayer 0        
+C6         1228.071      715.000       TopLayer 0        
+C5         1226.929      760.000       TopLayer 0        
+C3         1085.000      433.071       TopLayer 270      
+C2         1040.000      433.071       TopLayer 270      
+R4         540.000       160.000       TopLayer 0        
+R3         540.000       240.000       TopLayer 0        
+C18        1250.000      950.000       TopLayer 180      
+C13        1250.000      1190.000      TopLayer 90       
+C12        1160.000      983.071       TopLayer 270      
+R7         467.913       600.000       TopLayer 180      
+R6         210.000       1040.000      TopLayer 270      
+C4         1140.000      850.000       TopLayer 0        
+C1         786.929       610.000       TopLayer 180      
+P1         210.000       830.000       TopLayer 90       
+R2         1010.000      900.000       TopLayer 90       
+R1         1060.000      900.000       TopLayer 90       
+C17        550.000       600.000       TopLayer 0        
+C16        225.000       600.000       TopLayer 0        
+Y1         395.000       470.000       TopLayer 180      
+R5         532.087       1130.000      TopLayer 0        
+J1         1000.000      1890.000      TopLayer 180      
+U2         1470.000      1150.000      TopLayer 270      
+U1         1000.000      650.000       TopLayer 0        
+U3         972.441       215.748       TopLayer 0        
+U4         550.000       990.000       TopLayer 0        

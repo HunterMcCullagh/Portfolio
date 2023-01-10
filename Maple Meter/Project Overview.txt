@@ -1,0 +1,7 @@
+The premise of this project is to assist with the heating of sap to convert to maple syrup
+
+The temperature probe with the DS18x20 is inserted into the liquid.
+The barometer is used to calculate the environmental pressure to caluclate the boiling point of sap.
+
+By knowing the boiling point of sap and having a temperature probe measuring the sap, 
+users will have a better idea of when to take the syrup off of the heat source
