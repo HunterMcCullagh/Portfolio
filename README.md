@@ -6,7 +6,7 @@ The purpose of this project is to create an environment to successfully germinat
 
 A diagram of the components can be seen below. Where Temperature & airflow are controlled.
 
-![image](https://github.com/user-attachments/assets/56029de4-ca21-4228-8f17-6e604d66728b)
+![image](https://github.com/user-attachments/assets/e1304d03-2090-4e2c-8b38-3257f1d7a177)
 
 Next steps for this project is to integrate humidity control
 
